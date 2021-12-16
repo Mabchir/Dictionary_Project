@@ -4,3 +4,8 @@
   height: 700px;
   width: 700px;
 }
+
+.App-footer {
+  margin: 50px;
+  text-align: center;
+}
