@@ -1,8 +1,9 @@
 .App_logo {
   display: block;
   margin: auto;
-  height: 700px;
-  width: 700px;
+  height: 550px;
+  width: 550px;
+  clip-path: inset(160px 160px 160px 160px);
 }
 
 .App-footer {

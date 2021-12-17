@@ -1,0 +1,10 @@
+.Meaning p:first-letter {
+  text-transform: capitalize;
+}
+.Meaning h3 {
+  margin-left: 15px;
+}
+
+.Meaning p {
+  margin-left: 15px;
+}
