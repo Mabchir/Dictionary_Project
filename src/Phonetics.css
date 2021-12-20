@@ -1,3 +1,6 @@
 .Phonetics {
   text-align: center;
 }
+.Phonetics a {
+  margin: 10px;
+}
