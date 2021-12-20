@@ -2,9 +2,8 @@ import React from "react";
 import "./Phonetics.css";
 
 export default function Phonetics(props) {
-  console.log(props.phonetics);
   return (
-    <div className="Phonectis">
+    <div className="Phonetics">
       {props.phonetics.map(function (phonetic, index) {
         return (
           <div className="SubPhonetics">
