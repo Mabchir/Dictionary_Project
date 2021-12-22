@@ -12,7 +12,24 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer">Coded by Mariem Bchir</footer>
+        <footer className="App-footer">
+          Coded by{" "}
+          <a
+            href="https://goofy-easley-2c8717.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Mariem Bchir
+          </a>
+          . Source Code:{" "}
+          <a
+            href="https://github.com/Mabchir/Dictionary_Project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Git
+          </a>
+        </footer>
       </div>
     </div>
   );
