@@ -6,7 +6,7 @@ export default function Phonetics(props) {
     <div className="Phonetics">
       {props.phonetics.map(function (phonetic, index) {
         return (
-          <div className="SubPhonetics">
+          <div className="SubPhonetics" key={index}>
             <a href={phonetic.audio} target="_blank" rel="noreferrer">
               Listen
             </a>
