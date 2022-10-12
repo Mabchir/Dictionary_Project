@@ -1,3 +1,5 @@
+![Visualization of the codebase](./diagram.svg)
+
 # Summary
 
 This project is an attempt to build a Dictionary web application using React, Javascript, HTML and CSS. This application was built in the context of the Women-only web development certification program SheCodes.
